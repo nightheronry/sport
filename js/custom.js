@@ -40,7 +40,7 @@ function initialize(){
        .done(function( data ) {
          vedioinfo_process(data);
          setinitialShift();
-         setjplayer("荷蘭 VS 阿根廷","video/Video_2014-07-10_074719.mp4","img/Video_2014-07-10.png");
+         setjplayer("荷蘭 VS 阿根廷","https://awin.cs.nchu.edu.tw/~daniel/sport/video/Video_2014-07-10_074719.mp4","img/Video_2014-07-10.png");
        });
 
      }
@@ -53,7 +53,7 @@ function initialize(){
           .done(function( data ) {
             vedioinfo_process(data);
             setinitialShift();
-            setjplayer("巴西 VS 荷蘭","video/Video_2014-07-13_055916.mp4","img/Video_2014-07-10.png");
+            setjplayer("巴西 VS 荷蘭","https://awin.cs.nchu.edu.tw/~daniel/sport/video/Video_2014-07-13_055916.mp4","img/Video_2014-07-10.png");
           });
 
         }
@@ -66,7 +66,7 @@ function initialize(){
              .done(function( data ) {
                vedioinfo_process(data);
                setinitialShift();
-               setjplayer("巴西 VS 荷蘭","video/Video_2014-07-14_054237.mp4","img/Video_2014-07-10.png");
+               setjplayer("巴西 VS 荷蘭","https://awin.cs.nchu.edu.tw/~daniel/sport/video/Video_2014-07-14_054237.mp4","img/Video_2014-07-10.png");
              });
 
            }
@@ -79,7 +79,7 @@ function initialize(){
                 .done(function( data ) {
                   vedioinfo_process(data);
                   setinitialShift();
-                  setjplayer("巴西 VS 德國(上半場)","video/Video_2014-07-09_1.mp4","img/Video_2014-07-10.png");
+                  setjplayer("巴西 VS 德國(上半場)","https://awin.cs.nchu.edu.tw/~daniel/sport/video/Video_2014-07-09_1.mp4","img/Video_2014-07-10.png");
                 });
 
               }
@@ -92,7 +92,7 @@ function initialize(){
                    .done(function( data ) {
                      vedioinfo_process(data);
                      setinitialShift();
-                     setjplayer("巴西 VS 德國(下半場)","video/Video_2014-07-09_2.mp4","img/Video_2014-07-10.png");
+                     setjplayer("巴西 VS 德國(下半場)","https://awin.cs.nchu.edu.tw/~daniel/sport/video/Video_2014-07-09_2.mp4","img/Video_2014-07-10.png");
                    });
 
                  }
@@ -107,7 +107,7 @@ function initialize(){
                       .done(function( data ) {
                         vedioinfo_process(data);
                         setinitialShift();
-                        setjplayer("2016中職日職對抗賽(名古屋)","video/Video_2016-03-05.mp4","img/Video_2016-03-05.png");
+                        setjplayer("2016中職日職對抗賽(名古屋)","https://awin.cs.nchu.edu.tw/~daniel/sport/video/Video_2016-03-05.mp4","img/Video_2016-03-05.png");
                       });
 
                     }
@@ -122,7 +122,7 @@ function initialize(){
                          .done(function( data ) {
                            vedioinfo_process(data);
                            setinitialShift();
-                           setjplayer("2016中職日職對抗賽(大阪)","video/Video_2016-03-06.mp4","img/Video_2016-03-05.png");
+                           setjplayer("2016中職日職對抗賽(大阪)","https://awin.cs.nchu.edu.tw/~daniel/sport/video/Video_2016-03-06.mp4","img/Video_2016-03-05.png");
                          });
 
                        }
